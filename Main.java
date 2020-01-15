@@ -1,4 +1,7 @@
-package com.company;
+/*
+The entire credits goes to Abhay Redkar udemy course Java object oriented programming: Build a chat Application. 
+I just wrote the code by looking at his videos to understand OOPS concepts
+*/
 
 /*The application is a simple console based application and it is going to display some question to the user
   and each question has 4 different options and once the user enters an option it will display a simple
